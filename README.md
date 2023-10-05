@@ -1,5 +1,5 @@
 # Frontend Mentor - Product preview card component
 
-https://github.com/Basit787/Product-preview-card-component/blob/master/design/desktop-design.jpg
+![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 https://product-preview-card-component-rouge-eight.vercel.app/
